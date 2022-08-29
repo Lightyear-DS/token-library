@@ -1069,6 +1069,10 @@
         "value": "{Green.600}",
         "type": "color"
       },
+      "Informative": {
+        "value": "{Blue.500}",
+        "type": "color"
+      },
       "Negative": {
         "value": "{Shade.0}",
         "type": "color"
