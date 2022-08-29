@@ -540,10 +540,6 @@
       "500": {
         "value": "#1478EE",
         "type": "color"
-      },
-      "600": {
-        "value": "#0a61c4",
-        "type": "color"
       }
     },
     "Gradient": {
@@ -1071,10 +1067,6 @@
       },
       "Success": {
         "value": "{Green.600}",
-        "type": "color"
-      },
-      "Informative": {
-        "value": "{Blue.600}",
         "type": "color"
       },
       "Negative": {
