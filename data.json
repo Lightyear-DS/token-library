@@ -933,11 +933,11 @@
           "type": "color"
         },
         "Contrasted Pressed": {
-          "value": "{Shade.50}",
+          "value": "{Shade.300}",
           "type": "color"
         },
         "Contrasted Disabled": {
-          "value": "{Shade.100}",
+          "value": "{Shade.500}",
           "type": "color"
         }
       }
@@ -1016,7 +1016,7 @@
           "value": "{Shade.600}",
           "type": "color"
         },
-        "Secondary Disabled": {
+        "Secondary Action Disabled": {
           "value": "{Shade.300}",
           "type": "color"
         },
@@ -1025,11 +1025,11 @@
           "type": "color"
         },
         "Contrasted Pressed": {
-          "value": "{Shade.50}",
+          "value": "{Shade.300}",
           "type": "color"
         },
         "Contrasted Disabled": {
-          "value": "{Shade.100}",
+          "value": "{Shade.500}",
           "type": "color"
         }
       }
