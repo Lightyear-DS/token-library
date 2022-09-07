@@ -1004,7 +1004,7 @@
           "value": "{Shade.100}",
           "type": "color"
         },
-        "Primary Disabled": {
+        "Primary Action Disabled": {
           "value": "{Shade.300}",
           "type": "color"
         },
