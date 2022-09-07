@@ -904,10 +904,6 @@
           "value": "{Dark Pastel.Green}",
           "type": "color"
         },
-        "Contrasted": {
-          "value": "{Shade.0}",
-          "type": "color"
-        },
         "Primary Action": {
           "value": "{Shade.0}",
           "type": "color"
@@ -930,6 +926,18 @@
         },
         "Secondary Action Disabled": {
           "value": "{Shade.300}",
+          "type": "color"
+        },
+        "Contrasted": {
+          "value": "{Shade.0}",
+          "type": "color"
+        },
+        "Contrasted Pressed": {
+          "value": "{Shade.50}",
+          "type": "color"
+        },
+        "Contrasted Disabled": {
+          "value": "{Shade.100}",
           "type": "color"
         }
       }
@@ -1010,6 +1018,18 @@
         },
         "Secondary Disabled": {
           "value": "{Shade.300}",
+          "type": "color"
+        },
+        "Contrasted": {
+          "value": "{Shade.0}",
+          "type": "color"
+        },
+        "Contrasted Pressed": {
+          "value": "{Shade.50}",
+          "type": "color"
+        },
+        "Contrasted Disabled": {
+          "value": "{Shade.100}",
           "type": "color"
         }
       }
