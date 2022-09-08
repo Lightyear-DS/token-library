@@ -1163,12 +1163,19 @@
       "type": "boxShadow"
     }
   },
+  "App/Spacings": {
+    "Close friends": {
+      "value": "{space-16}",
+      "type": "spacing"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "Core",
       "App/Typography",
-      "App/Light"
+      "App/Light",
+      "App/Spacings"
     ]
   }
 }
