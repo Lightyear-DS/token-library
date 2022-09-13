@@ -866,6 +866,23 @@
       }
     },
     "Surface": {
+      "Neutral": {
+        "Default": {
+          "value": "{Shade.50}",
+          "type": "color",
+          "description": "Used on backgrounds for informative elements"
+        },
+        "Pressed": {
+          "value": "{Shade.100}",
+          "type": "color",
+          "description": "Used on backgrounds for informative elements"
+        },
+        "Depressed": {
+          "value": "{Shade.200}",
+          "type": "color",
+          "description": "Used on backgrounds for informative elements"
+        }
+      },
       "Informative": {
         "Default": {
           "value": "{Blue.100}",
@@ -917,13 +934,6 @@
           "description": "Used on backgrounds for informative elements"
         }
       },
-      "Neutral": {
-        "Default": {
-          "value": "{Shade.50}",
-          "type": "color",
-          "description": "Used on backgrounds for informative elements"
-        }
-      },
       "Warning": {
         "Default": {
           "value": "{Yellow.100}",
@@ -944,6 +954,16 @@
       "Contrasted": {
         "Default": {
           "value": "{Shade.600}",
+          "type": "color",
+          "description": "Used on backgrounds of elements which are critical"
+        },
+        "Pressed": {
+          "value": "{Shade.700}",
+          "type": "color",
+          "description": "Used on backgrounds of elements which are critical"
+        },
+        "Depressed": {
+          "value": "{Shade.700}",
           "type": "color",
           "description": "Used on backgrounds of elements which are critical"
         }
