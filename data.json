@@ -1221,6 +1221,10 @@
         "value": "{Shade.700}",
         "type": "color"
       },
+      "Negative": {
+        "value": "{Shade.0}",
+        "type": "color"
+      },
       "Critical": {
         "value": "{Red.500}",
         "type": "color"
@@ -1235,10 +1239,6 @@
       },
       "Informative": {
         "value": "{Blue.500}",
-        "type": "color"
-      },
-      "Negative": {
-        "value": "{Shade.0}",
         "type": "color"
       }
     },
