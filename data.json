@@ -442,6 +442,14 @@
       "700": {
         "value": "#131313",
         "type": "color"
+      },
+      "800": {
+        "value": "#131313",
+        "type": "color"
+      },
+      "1000": {
+        "value": "#131313",
+        "type": "color"
       }
     },
     "Dark Pastel": {
@@ -463,19 +471,19 @@
       }
     },
     "Yellow": {
-      "50": {
+      "100": {
         "value": "#FFFAF5",
         "type": "color"
       },
-      "100": {
+      "200": {
         "value": "#FDEACE",
         "type": "color"
       },
-      "200": {
+      "300": {
         "value": "#FAD9A9",
         "type": "color"
       },
-      "300": {
+      "400": {
         "value": "#F6CD91",
         "type": "color"
       },
@@ -485,6 +493,22 @@
       },
       "600": {
         "value": "#e88718",
+        "type": "color"
+      },
+      "700": {
+        "value": "#BE6702",
+        "type": "color"
+      },
+      "800": {
+        "value": "#A35801",
+        "type": "color"
+      },
+      "900": {
+        "value": "#854700",
+        "type": "color"
+      },
+      "1000": {
+        "value": "#663600",
         "type": "color"
       }
     },
@@ -501,8 +525,74 @@
         "value": "#FFD4CB",
         "type": "color"
       },
+      "400": {
+        "value": "#FF8D74",
+        "type": "color"
+      },
       "500": {
         "value": "#F45735",
+        "type": "color"
+      },
+      "600": {
+        "value": "#DF421F",
+        "type": "color"
+      },
+      "700": {
+        "value": "#C63110",
+        "type": "color"
+      },
+      "800": {
+        "value": "#A82407",
+        "type": "color"
+      },
+      "900": {
+        "value": "#871A02",
+        "type": "color"
+      },
+      "1000": {
+        "value": "#661300",
+        "type": "color"
+      }
+    },
+    "Orange": {
+      "100": {
+        "value": "#FFF8F2",
+        "type": "color"
+      },
+      "200": {
+        "value": "#FFEBD8",
+        "type": "color"
+      },
+      "300": {
+        "value": "#FFDEBE",
+        "type": "color"
+      },
+      "400": {
+        "value": "#FFC087",
+        "type": "color"
+      },
+      "500": {
+        "value": "#FEA455",
+        "type": "color"
+      },
+      "600": {
+        "value": "#EF770E",
+        "type": "color"
+      },
+      "700": {
+        "value": "#DB6701",
+        "type": "color"
+      },
+      "800": {
+        "value": "#A74E00",
+        "type": "color"
+      },
+      "900": {
+        "value": "#884000",
+        "type": "color"
+      },
+      "1000": {
+        "value": "#693100",
         "type": "color"
       }
     },
@@ -519,12 +609,32 @@
         "value": "#D0E5DB",
         "type": "color"
       },
+      "400": {
+        "value": "#92D8B7",
+        "type": "color"
+      },
       "500": {
         "value": "#1ACF78",
         "type": "color"
       },
       "600": {
         "value": "#19BE6F",
+        "type": "color"
+      },
+      "700": {
+        "value": "#01AF5A",
+        "type": "color"
+      },
+      "800": {
+        "value": "#00994E",
+        "type": "color"
+      },
+      "900": {
+        "value": "#008041",
+        "type": "color"
+      },
+      "1000": {
+        "value": "#006633",
         "type": "color"
       }
     },
@@ -541,8 +651,32 @@
         "value": "#CADDF4",
         "type": "color"
       },
+      "400": {
+        "value": "#8BBDF4",
+        "type": "color"
+      },
       "500": {
         "value": "#1478EE",
+        "type": "color"
+      },
+      "600": {
+        "value": "#0064DA",
+        "type": "color"
+      },
+      "700": {
+        "value": "#005AC2",
+        "type": "color"
+      },
+      "800": {
+        "value": "#004DA6",
+        "type": "color"
+      },
+      "900": {
+        "value": "#003E86",
+        "type": "color"
+      },
+      "1000": {
+        "value": "#003066",
         "type": "color"
       }
     },
@@ -561,12 +695,6 @@
       },
       "Orange Fade Out Muted": {
         "value": "linear-gradient(180deg, rgba(248, 166, 70, 0.1) 0%, rgba(248, 166, 70, 0) 100%)",
-        "type": "color"
-      }
-    },
-    "Orange": {
-      "600": {
-        "value": "#EF770E",
         "type": "color"
       }
     }
@@ -806,17 +934,17 @@
       },
       "Warning": {
         "Default": {
-          "value": "{Yellow.50}",
+          "value": "{Yellow.100}",
           "type": "color",
           "description": "Used on backgrounds of elements which are critical"
         },
         "Pressed": {
-          "value": "{Yellow.100}",
+          "value": "{Yellow.200}",
           "type": "color",
           "description": "Used on backgrounds for informative elements"
         },
         "Depressed": {
-          "value": "{Yellow.200}",
+          "value": "{Yellow.300}",
           "type": "color",
           "description": "Used on backgrounds for informative elements"
         }
